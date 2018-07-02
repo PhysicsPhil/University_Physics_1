@@ -1,7 +1,8 @@
 # University Physics 1
 Calculus Based Physics 1
 
-##Episodes:
+## Episodes:
+
 0. Dimensional Analysis
 1. 1D Motion
 2. Vectors
